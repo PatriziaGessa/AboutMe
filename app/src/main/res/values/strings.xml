@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Patrizia</string>
+    <string name="yellow_star">Yellow star</string>
+
+
+    <string name="bio">Hi, my name is Patrizia.
+        \n\nI love the sun.
+        \n\nLorem ipsum dolor sit amet, consectetur adipisci elit, sed do eiusmod tempor incidunt ut labore et dolore magna aliqua.
+        \nUt enim ad minim veniam, quis nostrum exercitationem ullamco laboriosam, nisi ut aliquid ex ea commodi consequatur.
+        \n\nDuis aute irure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        \nExcepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        \n\Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem.
+        \n\n\Et harum quidem rerum facilis est et expedita distinctio.
+        \nNam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.\n\n </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
